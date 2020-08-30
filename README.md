@@ -1,2 +1,7 @@
 # kaste
-kiobu's awesome spotify terminal extension, name not withstanding
+
+Kiobu's Awesome Spotify Terminal Extension, name not withstanding.
+
+Mostly made for myself, but gives developers a way to pipe DBus queries for Spotify through their terminal.
+
+
