@@ -8,7 +8,6 @@ edition = "2018"
 
 [dependencies]
 colored = "2"
-clap = "2.32"
 
 [lib]
 name = "spotifyqdbus"
